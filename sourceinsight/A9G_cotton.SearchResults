@@ -1,0 +1,5 @@
+---- DNS_DOMAIN Matches (4 in 2 files) ----
+Network.c (d:\share\rda8955\cotton\src):	    if(DNS_GetHostByName2(DNS_DOMAIN, ipInfo) != 0)
+Network.c (d:\share\rda8955\cotton\src):	    Trace(2,"DNS,domain:%s,ip:%s,strlen(ip):%d",DNS_DOMAIN, ipInfo, strlen(ipInfo));
+Network.h (d:\share\rda8955\cotton\src)://#define DNS_DOMAIN  "47.97.154.253"
+Network.h (d:\share\rda8955\cotton\src):#define DNS_DOMAIN  "122.114.122.174 "
